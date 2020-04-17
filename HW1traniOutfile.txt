@@ -1,0 +1,6 @@
+
+Circles Used: 10
+Arrows Used: 63
+Total number of Checks: 61
+Average of Checks: 6.1
+Most checked was: 5 with a check count of: 8
